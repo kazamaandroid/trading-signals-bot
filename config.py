@@ -1,4 +1,7 @@
-TELEGRAM_BOT_TOKEN = "TU_TOKEN"
-TELEGRAM_CHAT_ID = "TU_CHAT_ID"
-SYMBOLS = ["BTC-USD", "ETH-USD", "^NDX", "^GSPC", "^GDAXI"]  # US100, US500, GER40
-TIMEFRAMES = ["5m", "1h", "4h", "1d", "1wk"]
+# config.py
+
+# Token del bot de Telegram
+TELEGRAM_BOT_TOKEN = "6498133160:AAG-fxkpMSzYmznHvbVbdpCmS4RgFjQxOQo"
+
+# ID del chat de Telegram (canal o grupo)
+TELEGRAM_CHAT_ID = "-1002081453292"
